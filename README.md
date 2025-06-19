@@ -1,4 +1,3 @@
 # Password Strength Checker
+html
 
-
-html code
